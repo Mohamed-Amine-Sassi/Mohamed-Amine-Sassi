@@ -22,22 +22,13 @@
 - 📚 Also built **StudentChatBot**, a RAG-based PDF Q&A assistant using **LLaMA via Ollama**
 - 🎖️ **DataCamp — AI Engineer for Developers Associate** certified (2026)
 
-```
-FetchFeatures → validate_data ──┬── ColdStartPersona (no data)
-                                 └── ClassifyPersona (rule-based)
-                                          │
-                                    EnrichContext (peer + seasonal)
-                                          │
-                              GenerateNarrative (LLM) → GenerateVisualSpec (LLM) → END
-```
 <p align="center"><i>MoneyPersona's LangGraph pipeline — deterministic classification, LLM calls reserved for narrative & visual generation only</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,25&height=60&section=header&reversal=true" />
 
 ### 👋 About me
 
-- 🎓 2nd-year **Software Engineering** student at **ISSAT** (Institut Supérieur des Sciences Appliquées et de Technologie)
-- 💻 Run a freelance web development practice on the side
+- 🎓 2nd-year **Software Engineering** student at **ISSATSo** (Institut Supérieur des Sciences Appliquées et de Technologie de Sousse)
 - 🌍 Based in Tunisia · Trilingual — French, Arabic, English
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,25&height=60&section=header" />
@@ -58,12 +49,12 @@ LangGraph · LangChain · ChatGroq · Ollama · Python · FastAPI
 </td>
 <td align="center" valign="top" width="33%">
 
-**Frontend**
+**Web Dev**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/>
 
-React · TypeScript · JavaScript · HTML/CSS
+React · TypeScript · JavaScript · HTML/CSS · Express · Node 
 
 </td>
 <td align="center" valign="top" width="33%">
@@ -89,8 +80,6 @@ MongoDB · OpenCV · Git · Linux (Pop!_OS)
 | **StudentChatBot** | RAG-based PDF Q&A assistant using LLaMA via Ollama |
 | **FarmMarket** | E-commerce platform connecting local farmers to buyers |
 | **GymApp** | Gym management system with JWT authentication |
-| **ChatApp** | Real-time chat application |
-| **MovieSite** | Movie browsing/discovery web app |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,25&height=60&section=header&reversal=true" />
 
