@@ -94,7 +94,7 @@ MongoDB · OpenCV · Git · Linux (Pop!_OS)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amine-Sassi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=8A63D2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amine-Sassi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=8A63D2&cache_seconds=86400" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Amine-Sassi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8A63D2&fire=8A63D2" />
 
 </div>
