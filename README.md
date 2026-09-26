@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Med%20Amine%20Sassi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20LangGraph%20Engineer%20%C2%B7%20Software%20Engineering%20Student&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=8A63D2&center=true&vCenter=true&width=560&lines=%3C+your+tagline+goes+here+%2F%3E;Building+agentic+AI+systems+with+LangGraph+%F0%9F%A4%96;Currently+deep+in+LangChain+%2B+RAG" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=8A63D2&center=true&vCenter=true&width=560&lines=Building+agentic+AI+systems+with+LangGraph+%F0%9F%A4%96;Currently+deep+in+LangChain+%2B+RAG" alt="Typing SVG" />
 
 <br/>
 
